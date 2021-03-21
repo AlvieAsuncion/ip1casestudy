@@ -26,6 +26,17 @@ public class Casestudy1 {
     System.out.println("I'm 20 yrs old");
     System.out.println("----------------------------------");
     }
+    //Jayffrill manalo
+    static void method7(){
+    System.out.println("My name is Jayffrill manalo");
+                    }
+    static void method8(){
+    System.out.println("I'm From Poblacion Sur, Paniqui, tarlac");
+    }
+    static void method9(){
+    System.out.println("I'm 21 yrs old");
+    System.out.println("----------------------------------");
+    }
     public static void main(String[] args) {
         method1();
         method2();
@@ -33,6 +44,9 @@ public class Casestudy1 {
         method4();
         method5();
         method6();
+        method7();
+        method8();
+        method9();
     }
     
 }
