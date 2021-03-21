@@ -31,7 +31,7 @@ public class Casestudy1 {
     System.out.println("My name is Jayffrill A. Manalo");
                     }
     static void method8(){
-    System.out.println("I'm From Caburnay Street Poblacion Sur Paniqui,Tarlac");
+    System.out.println("I'm From Caburnay Poblacion Sur Paniqui, Tarlac");
     }
     static void method9(){
     System.out.println("I'm 21 yrs old");
