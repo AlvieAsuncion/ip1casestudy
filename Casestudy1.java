@@ -28,7 +28,7 @@ public class Casestudy1 {
     }
     //Jayffrill manalo
     static void method7(){
-    System.out.println("My name is Jayffrill manalo");
+    System.out.println("My name is Jayffrill A. Manalo");
                     }
     static void method8(){
     System.out.println("I'm From Poblacion Sur, Paniqui, tarlac");
